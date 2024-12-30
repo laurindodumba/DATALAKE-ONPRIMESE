@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gráfico de Dados</title>
+    <!-- Incluir o Plotly -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <h1>Dados Transformados</h1>
+
+    <!-- Tabela para exibir os dados -->
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Feedback ID</th>
+                <th>Customer ID</th>
+                <th>Campaign ID</th>
+                <th>Feedback Text</th>
+                <th>Rating</th>
+                <th>Processed Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in data %}
+            <tr>
+                <td>{{ row['feedback_id'] }}</td>
+                <td>{{ row['customer_id'] }}</td>
+                <td>{{ row['campaign_id'] }}</td>
+                <td>{{ row['feedback_text'] }}</td>
+                <td>{{ row['rating'] }}</td>
+                <td>{{ row['processed_date'] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <h2>Gráfico de Ratings</h2>
+    <!-- O gráfico gerado pelo Plotly -->
+    <div id="grafico">{{ graph_html | safe }}</div>
+
+</body>
+</html>

@@ -1,0 +1,51 @@
+feedback_id,customer_id,campaign_id,feedback_text,rating,feedback_date
+1,5,1,"""Excelente promoção! Aproveitei muito os descontos da Black Friday.""",5,2020-12-01
+2,12,2,"""Adorei os brindes de Natal, mas achei o processo de compra um pouco lento.""",4,2020-12-20
+3,23,3,"""A campanha de Ano Novo me motivou a iniciar uma rotina de exercícios.""",5,2021-01-15
+4,34,4,"""Dia dos Namorados foi perfeito! As ofertas foram exatamente o que procurávamos.""",5,2021-02-14
+5,45,5,"""A Primavera Verde foi uma iniciativa incrível para promover produtos sustentáveis.""",4,2021-04-01
+6,8,6,"""A Páscoa Especial ofereceu ótimos descontos, porém a entrega atrasou.""",3,2021-04-18
+7,19,7,"""As ofertas de verão foram fantásticas! Comprei vários itens de moda.""",5,2021-07-15
+8,27,8,"""Volta às Aulas facilitou muito as compras para os meus filhos.""",4,2021-09-20
+9,33,9,"""Cyber Monday trouxe ótimas oportunidades para compras online.""",5,2021-12-01
+10,40,10,"""Black Friday 2021 foi ainda melhor que a anterior! Excelente seleção de produtos.""",5,2021-12-30
+11,22,11,"""Natal 2021 superou minhas expectativas com ofertas incríveis.""",5,2021-12-25
+12,31,12,"""Ano Novo 2022 me ajudou a começar o ano com o pé direito. Muito satisfeito!""",5,2022-01-10
+13,7,13,"""Carnaval 2022 trouxe muita alegria e ótimas promoções para festas.""",4,2022-02-20
+14,38,14,"""Dia das Mães 2022 foi perfeito! Encontrei o presente ideal para minha mãe.""",5,2022-05-12
+15,49,15,"""Primavera 2023 incentivou a compra de produtos ecológicos. Excelente campanha!""",4,2023-04-01
+16,10,16,"""A Páscoa 2023 ofereceu descontos incríveis, mas o atendimento poderia melhorar.""",3,2023-04-18
+17,18,17,"""Verão 2023 foi uma das melhores campanhas! Adorei as parcerias com influenciadores.""",5,2023-07-01
+18,26,18,"""Volta às Aulas 2023 facilitou muito as compras escolares. Muito bom!""",4,2023-09-15
+19,35,19,"""Cyber Monday 2023 trouxe ótimas oportunidades, especialmente para eletrônicos.""",5,2023-12-01
+20,44,20,"""Black Friday 2023 foi fenomenal! Ofertas imperdíveis em diversos produtos.""",5,2023-12-30
+21,3,21,"""Natal 2022 foi incrível! Recebi ótimos produtos com preços excelentes.""",5,2022-12-25
+22,14,22,"""Ano Novo 2023 me ajudou a planejar melhor meus objetivos anuais. Muito útil!""",5,2023-01-10
+23,29,23,"""Carnaval 2023 trouxe muitas promoções para acessórios de festa.""",4,2023-02-28
+24,41,24,"""Dia das Mães 2024 está planejada para ser ainda mais especial!""",5,2024-05-12
+25,50,25,"""Primavera 2024 continua com ótimas iniciativas para sustentabilidade.""",4,2024-04-01
+26,1,26,"""Páscoa 2024 prometeu ótimos descontos e está ainda por vir. Ansioso!""",4,2024-04-17
+27,16,27,"""Verão 2024 está sendo incrível com muitas ofertas para moda jovem.""",5,2024-07-01
+28,24,28,"""Volta às Aulas 2024 facilita muito a organização das compras escolares.""",4,2024-09-15
+29,37,29,"""Cyber Monday 2024 está oferecendo descontos fantásticos para compras online.""",5,2024-11-28
+30,42,30,"""Black Friday 2024 está superando todas as expectativas com ofertas incríveis.""",5,2024-12-30
+31,9,31,"""Natal 2023 está sendo grandioso com muitas novidades e promoções.""",5,2023-12-25
+32,20,32,"""Ano Novo 2024 vai ser ainda melhor com as novas estratégias de marketing.""",4,2024-01-10
+33,28,33,"""Carnaval 2024 está trazendo ofertas imperdíveis para fantasias e acessórios.""",5,2024-02-28
+34,6,34,"""Dia das Mães 2025 promete ser inesquecível com grandes descontos.""",5,2025-05-12
+35,13,35,"""Primavera 2025 está promovendo excelentes iniciativas verdes.""",4,2025-04-01
+36,25,36,"""Páscoa 2025 será fantástica com as novas campanhas de produtos familiares.""",5,2025-04-17
+37,32,37,"""Verão 2025 está trazendo muitas novidades e ofertas para jovens.""",5,2025-07-01
+38,46,38,"""Volta às Aulas 2025 vai facilitar ainda mais as compras dos estudantes.""",4,2025-09-15
+39,21,39,"""Cyber Monday 2025 está revolucionando as compras online com ofertas exclusivas.""",5,2025-11-28
+40,47,40,"""Black Friday 2025 promete ser a maior de todas com descontos massivos.""",5,2025-12-30
+41,4,41,"""Cyber Monday 2024 está oferecendo preços imbatíveis em eletrônicos.""",5,2024-11-28
+42,5,42,"""Black Friday 2024 superou todas as expectativas com promoções incríveis.""",5,2024-12-30
+43,17,43,"""Natal 2024 vai ser inesquecível com as novas ofertas exclusivas.""",5,2024-12-25
+44,30,44,"""Ano Novo 2025 está planejado para revolucionar as estratégias de marketing.""",4,2025-01-10
+45,39,45,"""Carnaval 2025 está trazendo descontos incríveis para produtos de festa.""",5,2025-02-28
+46,48,46,"""Dia das Mães 2025 vai oferecer presentes perfeitos com ótimos preços.""",5,2025-05-12
+47,10,47,"""Primavera 2025 está promovendo uma linha sustentável que amei!""",5,2025-04-01
+48,43,48,"""Páscoa 2025 vai ser maravilhosa com as novas promoções familiares.""",5,2025-04-17
+49,15,49,"""Verão 2025 está trazendo muitas novidades para a moda jovem. Adorei!""",5,2025-07-01
+50,19,50,"""Volta às Aulas 2025 está facilitando muito as compras escolares dos meus filhos.""",5,2025-09-15
